@@ -24,12 +24,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:cgonher@stanford.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/cghernan/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=-aDe4WkAAAAJ&view_op=list_works&sortby=pubdate
   - icon: academicons/orcid
     url: https://orcid.org/
 
@@ -41,8 +39,8 @@ interests:
 education:
   - area: PhD Mathematics
     institution: Imperial College London
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-10-01
+    date_end: 2020-09-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -53,14 +51,12 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc+MSc Aerospace Engineering
+    institution: Higher Technical School of Engineering, Sevilla
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -168,6 +164,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Carlos González Hernández
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
