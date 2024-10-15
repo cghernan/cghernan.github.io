@@ -59,7 +59,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc+MSc Aerospace Engineering
-    institution: Higher Technical School of Engineering, Sevilla
+    institution: Higher Technical 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
