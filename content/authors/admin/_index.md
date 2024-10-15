@@ -49,14 +49,15 @@ education:
     institution: Ecole Polytechnique
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-
+    summary: | 
+      aaaa
 
   - area: BSc+MSc Aerospace Engineering
     institution: Universidad de Sevilla
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: | 
+      aaaa
 
 work:
   - position: Research Fellow
