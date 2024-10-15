@@ -2,7 +2,7 @@
 
 # Full name (for SEO)
 first_name: Carlos
-last_name: González Hernández
+last_name: Gonzalez Hernandez
 
 # Is this the primary user of the site?
 superuser: true
@@ -16,13 +16,13 @@ role: Postdoctoral Research Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Stanford University
-    url: https://openai.com/
+    url: https://www.stanford.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:cgonher@stanford.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
