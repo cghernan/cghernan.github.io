@@ -33,7 +33,7 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=-aDe4WkAAAAJ&view_op=list_works&sortby=pubdate
 
 interests:
-  - Turbulence: Theory Simulation
+  - Turbulence
   - Computational Aerodynamics
   - Artificial Intelligence for Science
 
