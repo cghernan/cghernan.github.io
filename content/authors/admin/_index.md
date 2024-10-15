@@ -33,7 +33,7 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=-aDe4WkAAAAJ&view_op=list_works&sortby=pubdate
 
 interests:
-  - Turbulence: Theory & Simulation
+  - Turbulence: Theory Simulation
   - Computational Aerodynamics
   - Artificial Intelligence for Science
 
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-I am a Research Fellow in the Department of Aeronautics & Astronautics at Stanford University. I work at the intersection of Computational Fluid Dynamics and Artificial Intelligence, specializing in the construction of physics-informed reduced-order models for fluid dynamics, across scales.
+I am a Research Fellow in the Department of Aeronautics & Astronautics at Stanford University. I work at the intersection of Computational Fluid Dynamics and Artificial Intelligence, specializing in the construction of physics-informed reduced-order models for fluid dynamics across scales.
