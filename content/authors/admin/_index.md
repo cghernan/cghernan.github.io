@@ -1,7 +1,7 @@
 ---
 
 # Name pronunciation (optional)
-name_pronunciation: Carlos González Hernández
+name_pronunciation: Carlos Gonzalez Hernandez
 
 # Full name (for SEO)
 first_name: Carlos
