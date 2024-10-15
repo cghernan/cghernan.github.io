@@ -1,5 +1,8 @@
 ---
 
+# Name pronunciation (optional)
+name_pronunciation: Carlos Gonzalez
+
 # Full name (for SEO)
 first_name: Carlos
 last_name: Gonzalez
