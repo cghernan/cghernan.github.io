@@ -2,7 +2,7 @@
 
 # Full name (for SEO)
 first_name: Carlos
-last_name: Gonzalez Hernandez
+last_name: Gonzalez
 
 # Is this the primary user of the site?
 superuser: true
