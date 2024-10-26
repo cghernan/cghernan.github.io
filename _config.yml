@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Carlos Gonzalez Hernandez"
 title_separator          : "-"
-name                     : &name "Carlos Gonzalez Hernandez"
-description              : &description "Postdoc in Political Science"
+name                     : &name "Carlos Gonzalez Hernan"
+description              : &description "Research Fellow"
 url                      : https://cghernan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cghernan/cghernan.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin     : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # SEO Related
 google_site_verification :
