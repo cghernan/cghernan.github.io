@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Gonzalez Hernan"
+title                    : "Carlos Gonzalez Hernandez"
 title_separator          : "-"
 name                     : &name "Carlos Gonzalez Hernandez"
 description              : &description "Research Fellow, Department of Aeronautics & Astronautics, Stanford University"
@@ -87,9 +87,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carlos Gonzalez Hernandez"
+  name             : "Carlos Gonzalez Hernan"
   avatar           : "profile.png"
-  bio              : "Research Fellow"
+  bio              : "Research Fellow, Department of Aeronautics & Astronautics, Stanford University"
   location         : "Palo Alto, CA, USA"
   employer         :
   pubmed           :
