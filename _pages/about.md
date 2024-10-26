@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
+Hola! I am Research Fellow in the Department of Aeronautics & Astronautics at Stanford University.
+I work at the intersection of Computational Fluid Dynamics and Artificial Intelligence, 
+specializing in the construction of physics-informed reduced-order models for their use as ‘digital twins’ in real-time engineering applications. 
+These models make effective use of deep artificial neural networks to break the curse of 
+dimensionality associated to the high dimensionality of systems described by partial differential equations.
+
+
+I am a data scientist applying machine learning tools and causal
 inference techniques to remote sensing data. I am an affiliated
 researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
 and a research collaborator with the 
