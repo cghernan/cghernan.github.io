@@ -49,6 +49,8 @@ staticman:
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # SEO Related
 google_site_verification :
