@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Gonzalez Hernandez"
+title                    : "Carlos Gonzalez Hernan"
 title_separator          : "-"
-name                     : &name "Carlos Gonzalez Hernan"
-description              : &description "Research Fellow"
+name                     : &name "Carlos Gonzalez Hernandez"
+description              : &description "Research Fellow, Department of Aeronautics & Astronautics, Stanford University"
 url                      : https://cghernan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cghernan/cghernan.github.io"
@@ -90,7 +90,7 @@ author:
   name             : "Carlos Gonzalez Hernandez"
   avatar           : "profile.png"
   bio              : "Research Fellow"
-  location         :
+  location         : "Palo Alto, CA, USA"
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-9259-3883"
