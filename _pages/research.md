@@ -7,7 +7,11 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic tututu research falls into two main areas: understanding the influence of
+My academic research falls into three main areas: 
+
+
+
+understanding the influence of
 geography on actor behavior before, during, and after civil conflict, and
 developing new tools to improve the study of institutions (both formal and
 informal) in peace and conflict. One strand of research in this first area
