@@ -11,14 +11,14 @@ My academic research falls into three main areas: (1) Physics-informed model-ord
 in high-speed flows.
 
 Physics-informed model-order reduction
-ddfdfd
+
 I research how to best combine traditional projection-based model-order reduction (PMOR) and machine learning architectures like artificial neural networks
  (ANNs) and Gaussian Processes (GPs) to mitigate the Kolmogorov barrier to reducibility of parametric and/or highly nonlinear, high-dimensional, 
 physics-based models. The main objective of this concept is to reduce the dimensionality of the online approximation of the solution beyond what is 
 achievable using affine and quadratic approximation manifolds, while maintaining accuracy. In contrast to previous approaches that exploited one form or 
 another of machine learning, the training of the ANN/GP part does not involve data whose dimension scales with that of the high-dimensional model; and the 
 resulting PROM-ANN/GP can be efficiently hyperreduced using any well-established hyperreduction method. Hence, unlike many other ANN-based model-order 
-reduction approaches, the PROM-ANN/GP concept should be practical for large-scale and industry-relevant computational problems. The concept will demonstrate
+reduction approaches, the PROM-ANN/GP concept is practical for large-scale and industry-relevant computational problems. The concept has demonstrated
  the computational tractability of its offline stage and the superior wall clock time performance of its online stage for a large-scale, parametric, 
 two-dimensional, model problem that is representative of shock-dominated unsteady flow problems.
 
