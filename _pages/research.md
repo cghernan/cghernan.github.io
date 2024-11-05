@@ -20,22 +20,24 @@ another of machine learning, the training of the ANN/GP part does not involve da
 resulting PROM-ANN/GP can be efficiently hyperreduced using any well-established hyperreduction method. Hence, unlike many other ANN-based model-order 
 reduction approaches, the PROM-ANN/GP concept is practical for large-scale and industry-relevant computational problems. The concept has demonstrated
  the computational tractability of its offline stage and the superior wall clock time performance of its online stage for a large-scale, parametric, 
-two-dimensional, model problem that is representative of shock-dominated unsteady flow problems.
+two-dimensional, model problem that is representative of shock-dominated unsteady flow problems. The PROM-ANN concept has also successfully been applied 
+to the double-cone hypersonic benchmark problem.
 
 Turbulence dynamics
 
-A generalised quasilinear (GQL) approximation (Marston et al., Phys. Rev. Lett., vol. 116, 2016, 104502) is applied to turbulent channel flow at Reτ≃1700 
-(Reτ is the friction Reynolds number), with emphasis on the energy transfer in the streamwise wavenumber space. The flow is decomposed into low- and 
-high-streamwise-wavenumber groups, the former of which is solved by considering the full nonlinear equations whereas the latter is obtained from the 
-linearised equations around the former. It is found that the QL model (one streamwise mode) exhibits a considerably reduced multi-scale behaviour at the 
-given moderately high Reynolds number. This is improved significantly by the GQL approximation which incorporates only a few more streamwise Fourier modes 
-into the low-wavenumber group, and it reasonably well recovers the distance-from-the-wall scaling in the turbulence statistics and spectra. Finally, it is 
-proposed that the energy transfer from the low- to the high-wavenumber group in the GQL approximation, referred to as the ‘scattering’ mechanism, depends 
-on the neutrally stable leading Lyapunov spectrum of the linearised equations for the high-wavenumber group.
+In the field of Turbulence, my research has focused on the identification on linear and nonlinear mechanisms in wall-bounded shear flows. My work pioneered
+the use of quasilinear approximations as an interventional tool to suppress certain triadic nonlinear interactions like the energy cascade and inverse energy 
+transfer in the near-wall region. In particular, I applied the generalized quasilinear (GQL) approximation (Marston et al., PRL 2016) to turbulent channel 
+flow at high friction Reynolds numbers (Reτ≃1700), with emphasis on the energy transfer in the streamwise wavenumber space. The flow is decomposed into low- 
+and high-streamwise-wavenumber groups, the former of which is solved by considering the full nonlinear equations whereas the latter is obtained from the 
+linearized equations around the former. I found that the QL model (one streamwise mode) exhibits a considerably reduced multi-scale behaviour at the given 
+moderately high Reynolds number. This is improved significantly by the GQL approximation which incorporates only a few more streamwise Fourier modes into 
+the low-wavenumber group, and it reasonably well recovers the distance-from-the-wall scaling in the turbulence statistics and spectra. I proposed that the 
+energy transfer from the low- to the high-wavenumber group in the GQL approximation, referred to as the ‘scattering’ mechanism, depends on the neutrally 
+stable leading Lyapunov spectrum of the linearized equations for the high-wavenumber group.
 
 
-Continuing from Part 1 (Hernández et al., J. Fluid Mech., vol. 936, 2022, A33), a generalised quasilinear (GQL) approximation is studied in turbulent 
-channel flow using a flow decomposition defined with spanwise Fourier modes: the flow is decomposed into a set of low-wavenumber spanwise Fourier modes and 
+using a flow decomposition defined with spanwise Fourier modes: the flow is decomposed into a set of low-wavenumber spanwise Fourier modes and 
 the rest high-wavenumber modes. This decomposition leads to the nonlinear low-wavenumber group that supports the self-sustaining process within the given 
 integral length scales, whereas the linearised high-wavenumber group is not able to do so, unlike the GQL models in Part 1, which place a minimal 
 mathematical description for the self-sustaining process across all integral scales. Despite not being able to support the self-sustaining process in the 
