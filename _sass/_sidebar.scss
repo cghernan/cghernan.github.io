@@ -13,7 +13,7 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @include breakpoint($large) {
+  @include breakpoint($xx-large) {
     @include span(5 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
