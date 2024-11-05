@@ -88,12 +88,12 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Gonzalez Her"
-  avatar           : "profile.png"
+  avatar           : "CarlosGonzalez.jpg"
   bio              : "Research Fellow, Aero & Astro, @Stanford University"
   location         : "Palo Alto, CA, USA"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
+  orcid            : 
   googlescholar    : "https://scholar.google.com/citations?user=-aDe4WkAAAAJ&hl=en"
   email            : "cgonher@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
