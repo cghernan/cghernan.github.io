@@ -12,9 +12,9 @@ in high-speed flows.
 
 Physics-informed model-order reduction
 
-![](../images/f16.png)
-pepe
-<img src='/images/f16.png'>
+#![](../images/f16.png)
+#pepe
+#<img src='/images/f16.png'>
 
 I research how to best combine traditional projection-based model-order reduction (PMOR) and machine learning architectures like artificial neural networks
  (ANNs) and Gaussian Processes (GPs) to mitigate the Kolmogorov barrier to reducibility of parametric and/or highly nonlinear, high-dimensional, 
