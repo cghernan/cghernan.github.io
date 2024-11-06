@@ -18,10 +18,6 @@ paraprapapapap
 <nbsp>
 <nbsp>
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 {% include base_path %}
 
@@ -30,6 +26,11 @@ paraprapapapap
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 <nbsp>
 
