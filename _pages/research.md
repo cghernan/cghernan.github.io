@@ -36,14 +36,14 @@ the low-wavenumber group, and it reasonably well recovers the distance-from-the-
 energy transfer from the low- to the high-wavenumber group in the GQL approximation, referred to as the ‘scattering’ mechanism, depends on the neutrally 
 stable leading Lyapunov spectrum of the linearized equations for the high-wavenumber group.
 
+Based on the GQL approximation, I have also proposed a type of decomposition into spanwise Fourier modes that leads to a nonlinear low-wavenumber group 
+that supports the self-sustaining process within the given integral length scales, while the linearized high-wavenumber group is not able to do so, unlike 
+the GQL models proposed until date, which place a minimal mathematical description for the self-sustaining process across all integral scales. Despite not 
+being able to support the self-sustaining process in the high-wavenumber group, these GQL models are found to reproduce some key statistical features in 
+the high-wavenumber group solely through the ‘scattering’ mechanism proposed by previous studies. 
 
-using a flow decomposition defined with spanwise Fourier modes: the flow is decomposed into a set of low-wavenumber spanwise Fourier modes and 
-the rest high-wavenumber modes. This decomposition leads to the nonlinear low-wavenumber group that supports the self-sustaining process within the given 
-integral length scales, whereas the linearised high-wavenumber group is not able to do so, unlike the GQL models in Part 1, which place a minimal 
-mathematical description for the self-sustaining process across all integral scales. Despite not being able to support the self-sustaining process in the 
-high-wavenumber group, the GQL models in the present study are found to reproduce some key statistical features in the high-wavenumber group solely through 
-the ‘scattering’ mechanism proposed by previous studies. Finally, using the nature of the GQL approximation, a further set of numerical experiments 
-suppressing certain triadic nonlinear interactions are carried out.
+I use the nature of the GQL approximation to propose numerical experiments suppressing certain triadic nonlinear interactions to study scale interactions 
+comprehensively.
 
 
 Laminar-turbulent transition in high-speed flows
