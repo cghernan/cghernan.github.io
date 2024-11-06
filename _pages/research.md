@@ -18,6 +18,11 @@ paraprapapapap
 <nbsp>
 <nbsp>
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
@@ -31,15 +36,7 @@ paraprapapapap
 <div style="text-align: justify; text-justify: inter-word;">
 
 My academic research falls into three main areas: (1) Physics-informed model-order reduction, (2) Turbulence dynamics, and (3) Laminar-turbulent transition
-in high-speed flows.
-
-
-
-
-
-
-
-
+in high-speed flows. Feel free to check out!
 
 </div>
 
