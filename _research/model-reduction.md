@@ -8,6 +8,8 @@ header:
   og_image: "research/f16-mini.png"
 ---
 
+<img src='/images/f16.png'>
+
 I research how to best combine traditional projection-based model-order reduction (PMOR) and machine learning architectures like artificial neural networks
  (ANNs) and Gaussian Processes (GPs) to mitigate the Kolmogorov barrier to reducibility of parametric and/or highly nonlinear, high-dimensional, 
 physics-based models. The main objective of this concept is to reduce the dimensionality of the online approximation of the solution beyond what is 
@@ -22,7 +24,7 @@ the reduced-order model of canonical flows issued from (H)PROM-ANN/GP, including
 components and physical mechanisms at play; as well as an investigation of other potential ML algorithms like convolutional neural networks and transformers
 for arbitrarily nonlinear approximation manifold construction. If you are interested in collaborating, feel free to drop me a line!
 
-## Article
+## Papers
 
 Hernández, C. G., Tezaur, R. and Farhat, C. “Gaussian-process-augmented projection-based model order reduction for mitigating the Kolmogorov barrier to
 reducibility.”, *In preparation* (2024).

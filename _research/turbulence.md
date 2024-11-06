@@ -31,7 +31,7 @@ scope for extension of this work into two
 I use the nature of the GQL approximation to propose numerical experiments suppressing certain triadic nonlinear interactions to study scale interactions 
 comprehensively. If you have new ideas on the matter, I am more than happy to collaborate!
 
-## Articles
+## Papers
 
 Hernández, C. G. and Hwang, Y. “Wall turbulence without self-sustaining process.”, *In preparation* (2024).
 

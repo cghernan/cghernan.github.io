@@ -15,6 +15,8 @@ number. In the subsonic regime, they are Tollmien-Schlichting (T-S) waves, which
 multiple families of modes (Mack, 1984) including the so-called first Mack modes, which are continuation of T-S modes into the compressible regime, and 
 the second Mack modes, which are essentially inviscid.
 
+<img src='/images/hyper_mach6.png'>
+
 I have worked on two new receptivity mechanisms. The first is new, involving the interaction of two acoustic waves and operating in a boundary layer over 
 a smooth wall. The second involves the interaction between an acoustic wave and the steady perturbation induced by a wavy wall. Both interactions generate 
 a forcing in resonance with a neutral Tollmien–Schlichting (T–S) wave. The latter is thus excited near the lower branch of the neutral curve, and 
@@ -22,11 +24,13 @@ subsequently undergoes exponential amplification. The two receptivity processes 
 effective compared with those involving usual sound waves, with the coupling coefficient being greater by a factor of O(R^1/4) and O(R^1/8) in the 
 sound–sound and sound–roughness interactions, respectively.
 
+<img src='/images/receptivity.png'>
+
 I am currently working on other receptivity mechanisms pertaining to high-speed boundary layers, and am looking to compare the high-Reynolds-number
 asymptotics results to numerical simulations and experiments. Receptivity has received far less attention than Instability, and there are a number of
 low-hanging fruits to be collected in this area. If you are an asymptotician, a numericist or an experimentalist, feel free to reach out!
 
-## Articles
+## Papers
 
 Hernández, C. G. and Wu, X. “Receptivity of supersonic boundary layers over smooth and wavy surfaces to impinging slow acoustic waves.” 
 *J. Fluid Mech.* 872, 849-888 (2019). 
