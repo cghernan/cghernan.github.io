@@ -1,7 +1,7 @@
 ---
 title: "Turbulence"
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
+excerpt: "<img src='/images/research/gqlx.png' alt=''>"
 collection: research
 order_number: 20
 header: 

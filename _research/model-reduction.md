@@ -1,7 +1,7 @@
 ---
 title: "Model Reduction"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='/images/research/f16-mini.png' alt=''>"
 collection: research
 order_number: 10
 header: 

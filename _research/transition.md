@@ -1,7 +1,7 @@
 ---
 title: "Transition"
 layout: single-portfolio
-excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
+excerpt: "<img src='/images/research/hyper_mach6.png' alt=''>"
 collection: research
 order_number: 30
 header: 
