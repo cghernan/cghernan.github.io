@@ -17,7 +17,6 @@ in high-speed flows. Feel free to check out!
 </div>
 
 <br/><br/>
-<br/><br/>
 
 {% include base_path %}
 
