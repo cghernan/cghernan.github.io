@@ -9,8 +9,6 @@ header:
 
 paraprapapapap
 
-<nbsp>
-
 <div style="text-align: justify; text-justify: inter-word;">
 
 My academic research falls into three main areas: (1) Physics-informed model-order reduction, (2) Turbulence dynamics, and (3) Laminar-turbulent transition
@@ -30,11 +28,3 @@ in high-speed flows. Feel free to check out!
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-
-<nbsp>
-
-
-
-
-
-
