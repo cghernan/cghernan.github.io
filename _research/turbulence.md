@@ -31,11 +31,26 @@ scope for extension of this work into two
 I use the nature of the GQL approximation to propose numerical experiments suppressing certain triadic nonlinear interactions to study scale interactions 
 comprehensively. If you have new ideas on the matter, I am more than happy to collaborate!
 
-## Article
+## Articles
 
-Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone." *International Studies Quarterly*.
+Hernández, C. G. and Hwang, Y. “Wall turbulence without self-sustaining process.”, *In preparation* (2024).
 
-> Do rebels target civilians as part of the process of establishing control in their territories? This research note shows that transition periods after rebels gain territorial control are remarkably violent for civilians. Speaking to the civilian victimization and rebel governance literature, we investigate the immediate time period after rebels successfully capture and hold territory. We argue that rebels use violence to gain compliance in newly captured territories until they are able to build up local capacities and institutions for peaceful governance. To test this argument, we draw on methodological advances in integrating event data and combine multiple datasets to study patterns of violence perpetrated by the Revolutionary United Front in Sierra Leone from 1997-2001. The findings of our spatiotemporal analysis show that civilian targeting increases in the period after rebels capture territory from the government compared to areas without territorial takeover, suggesting that life under the roof of rebels is initially more dangerous for civilians.
+Hernández, C. G., Cao, K., Herrmann, B., Brunton, S. andMcKeon, B. J. “Toward
+data-driven resolvent analysis of nonlinear flows.” *CTR Ann. Res. Briefs* (2024).
+[Article](https://ctr.stanford.edu/publications/annual-research-briefs/){: .btn--research} 
 
-[Article](https://doi.org/10.1093/isq/sqaa009){: .btn--research} [Preprint](/files/pdf/research/Under the Roof of Rebels.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Under the Roof of Rebels SI.pdf){: .btn--research} [Replication Archive](https://doi.org/10.7910/DVN/BEKPWV){: .btn--research}
+Luo, Z., Hernández, C. G. and Hwang, Y. “Generalized quasilinear approximations in
+homogeneous shear turbulence.” *Phys. Rev. Fluids* 8, 064604 (2023),
+[Article](https://doi.org/10.1103/PhysRevFluids.8.064604){: .btn--research} 
 
+Hernández, C. G., Yang, Q. and Hwang, Y. “Generalised quasilinear approximations of
+turbulent channel flow: Part 2. Spanwise triadic scale interactions”.” *J. Fluid Mech.* 944, A34. (2022)
+[Article](https://doi.org/10.1017/jfm.2022.499){: .btn--research} 
+
+Hernández, C. G., Yang, Q. and Hwang, Y. “Generalised quasilinear approximations of
+turbulent channel flow: Part 1. Streamwise nonlinear energy transfer.” *J. Fluid Mech.* 936, A33. (2022)
+[Article](https://doi.org/10.1017/jfm.2022.59){: .btn--research} 
+
+Hernández, C. G. and Hwang, Y. “Spectral energetics of a quasilinear approximation in
+uniform shear turbulence.” *J. Fluid Mech.* 904, A11. (2020)
+[Article](https://doi.org/10.1017/jfm.2020.678){: .btn--research} 

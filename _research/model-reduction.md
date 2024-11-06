@@ -24,5 +24,5 @@ for arbitrarily nonlinear approximation manifold construction. If you are intere
 
 ## Article
 
-RobHernández, C. G., Tezaur, R. and Farhat, C. “Gaussian-process-augmented projection-based model order reduction for mitigating the Kolmogorov barrier to
-reducibility.”, *In preparation*.
+Hernández, C. G., Tezaur, R. and Farhat, C. “Gaussian-process-augmented projection-based model order reduction for mitigating the Kolmogorov barrier to
+reducibility.”, *In preparation* (2024).

@@ -29,6 +29,6 @@ low-hanging fruits to be collected in this area. If you are an asymptotician, a 
 ## Articles
 
 Hernández, C. G. and Wu, X. “Receptivity of supersonic boundary layers over smooth and wavy surfaces to impinging slow acoustic waves.” 
-*J. Fluid Mech.* 2019. 872, 849-888. 
+*J. Fluid Mech.* 872, 849-888 (2019). 
 
 [Article](https://doi:10.1017/jfm.2019.388){: .btn--research}
