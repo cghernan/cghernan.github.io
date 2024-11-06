@@ -7,6 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 
+<nbsp>
+
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
