@@ -7,7 +7,6 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-<nbsp>
 
 {% include base_path %}
 
