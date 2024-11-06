@@ -18,8 +18,6 @@ in high-speed flows. Feel free to check out!
 
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
 
 {% include base_path %}
 
