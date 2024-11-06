@@ -7,6 +7,16 @@ header:
   og_image: "research/ecdf.png"
 ---
 
+<nbsp>
+
+{% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
 My academic research falls into three main areas: (1) Physics-informed model-order reduction, (2) Turbulence dynamics, and (3) Laminar-turbulent transition
 in high-speed flows.
 
@@ -79,12 +89,4 @@ low-hanging fruits to be collected in this area. If you are an asymptotician, a 
 
 
 
-<nbsp>
 
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
