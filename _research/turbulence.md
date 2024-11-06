@@ -1,5 +1,5 @@
 ---
-title: "Conflict event data"
+title: "Turbulence"
 layout: single-portfolio
 excerpt: "<img src='/images/research/map.png' alt=''>"
 collection: research
@@ -8,7 +8,30 @@ header:
   og_image: "research/map.png"
 ---
 
-In this set of projects, I leverage geospatial event data to explore the microlevel dynamics of political violence. What role can violence at the local level serve in advancing broader political ends? What explains patterns of action and reaction between actors engaged in different types of political violence? How do the differing roles the UN peacekeepers play affect the likelihood that rebel fighters will target them?
+Turbulence dynamics
+
+In the field of Turbulence, my research has focused on the identification on linear and nonlinear mechanisms in wall-bounded shear flows. My work pioneered
+the use of quasilinear approximations as an interventional tool to suppress certain triadic nonlinear interactions like the energy cascade and inverse energy 
+transfer in the near-wall region. In particular, I applied the generalized quasilinear (GQL) approximation (Marston et al., PRL 2016) to turbulent channel 
+flow at high friction Reynolds numbers (Reτ≃1700), with emphasis on the energy transfer in the streamwise wavenumber space. The flow is decomposed into low- 
+and high-streamwise-wavenumber groups, the former of which is solved by considering the full nonlinear equations whereas the latter is obtained from the 
+linearized equations around the former. I found that the QL model (one streamwise mode) exhibits a considerably reduced multi-scale behaviour at the given 
+moderately high Reynolds number. This is improved significantly by the GQL approximation which incorporates only a few more streamwise Fourier modes into 
+the low-wavenumber group, and it reasonably well recovers the distance-from-the-wall scaling in the turbulence statistics and spectra. I proposed that the 
+energy transfer from the low- to the high-wavenumber group in the GQL approximation, referred to as the ‘scattering’ mechanism, depends on the neutrally 
+stable leading Lyapunov spectrum of the linearized equations for the high-wavenumber group.
+
+Based on the GQL approximation, I have also proposed a type of decomposition into spanwise Fourier modes that leads to a nonlinear low-wavenumber group 
+that supports the self-sustaining process within the given integral length scales, while the linearized high-wavenumber group is not able to do so, unlike 
+the GQL models proposed until date, which place a minimal mathematical description for the self-sustaining process across all integral scales. Despite not 
+being able to support the self-sustaining process in the high-wavenumber group, these GQL models are found to reproduce some key statistical features in 
+the high-wavenumber group solely through the ‘scattering’ mechanism proposed by previous studies. 
+
+The GQL approximation is an interesting physics-based reduced-order model that has captured the attention of several groups working in Turbulence. There is
+scope for extension of this work into two
+
+I use the nature of the GQL approximation to propose numerical experiments suppressing certain triadic nonlinear interactions to study scale interactions 
+comprehensively. If you have new ideas on the matter, I am more than happy to collaborate!
 
 ## Article
 
