@@ -5,7 +5,7 @@ excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
 collection: research
 order_number: 30
 header: 
-  og_image: "research/Agreement-Strength.png"
+  og_image: "research/hyper-mach6.png"
 ---
 
 Laminar-turbulent transition in high-speed flows
