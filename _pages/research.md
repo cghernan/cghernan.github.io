@@ -7,8 +7,6 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-paraprapapapap
-
 <div style="text-align: justify; text-justify: inter-word;">
 
 My academic research falls into three main areas: (1) Physics-informed model-order reduction, (2) Turbulence dynamics, and (3) Laminar-turbulent transition
