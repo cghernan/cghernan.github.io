@@ -17,6 +17,8 @@ in high-speed flows. Feel free to navigate the pages below!
 <br/><br/>
 <br/><br/>
 
+<nbsp>
+
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
