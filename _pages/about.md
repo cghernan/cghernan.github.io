@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hola! I am Research Fellow in the Department of Aeronautics & Astronautics at Stanford University.
-I work at the intersection of Computational Fluid Dynamics and Artificial Intelligence, 
-specializing in the construction of physics-informed reduced-order models for their use as ‘digital twins’ in real-time engineering applications. 
-These models make effective use of deep artificial neural networks to break the curse of dimensionality associated to the high dimensionality 
-of systems described by partial differential equations.
+Hola! I am Research Fellow in the Department of Aeronautics & Astronautics at Stanford University. I work at the intersection of Computational Fluid 
+Dynamics and Artificial Intelligence, specializing in the construction of physics-informed reduced-order models for their use as ‘digital twins’ in 
+real-time engineering applications. These models make effective use of deep artificial neural networks to break the curse of dimensionality associated to 
+the high dimensionality of systems described by PDEs.
 
 I read Aerospace Engineering ([U. Sevilla](https://www.us.es/), 2014) and Fluid Mechanics ([Ecole Polytechnique](https://www.polytechnique.edu/), 2015) 
 before moving on to obtain my PhD in Applied Mathematics from [Imperial College London](https://www.imperial.ac.uk/) (2021). I also interned at 
@@ -20,18 +19,11 @@ before moving on to obtain my PhD in Applied Mathematics from [Imperial College 
 [French Atomic Energy Commission](https://www.cea.fr/) in 2016. Before my current appointment, I was a CTR Research Fellow in the 
 [Center for Turbulence Research](https://ctr.stanford.edu/) at Stanford University.
 
-I have made a key contribution in the field of laminar to turbulent transition elucidating a new acoustic receptivity mechanism for instabilities 
-in high-speed boundary layers. In the field of Turbulence, my research has focused on the identification of linear and nonlinear mechanisms in 
-wall-bounded turbulent shear flows; my work pioneered the use of quasilinear approximations as an interventional tool to suppress certain triadic 
-nonlinear interactions like the energy cascade and inverse energy transfer in the near-wall region. 
+I am an engineer and an applied mathematician with a strong analytical, quantitative and computing background. I am advocate for open-source software and
+try to release every code I produce for my research, including scientific codes to perform numerical simulation of PDEs (e.g. Navier-Stokes equations), 
+model-order reduction and post-processing tools of my own (I have an obsession with visualizing results properly and meaningfully). In the last years,
+I have become increasingly interested in the use of AI for Science and now you can usually find me exploring Reinforcement Learning architectures for their
+use in problems in mathematics and the physical sciences, mostly on PyTorch. 
 
-I currently research how to best combine traditional projection-based model-order reduction (PMOR) and machine learning architectures like artificial 
-neural networks (ANNs) and Gaussian Processes (GPs) to mitigate the Kolmogorov barrier to reducibility of parametric and/or highly nonlinear, 
-high-dimensional, physics-based models. The main objective of this concept is to reduce the dimensionality of the online approximation of the solution 
-beyond what is achievable using affine and quadratic approximation manifolds, while maintaining accuracy. In contrast to previous approaches that exploited 
-one form or another of machine learning, the training of the ANN/GP part does not involve data whose dimension scales with that of the high-dimensional 
-model; and the resulting PROM-ANN/GP can be efficiently hyperreduced using any well-established hyperreduction method. Hence, unlike many other ANN-based 
-model order reduction approaches, the PROM-ANN/GP concept should be practical for large-scale and industry-relevant computational problems. The concept will 
-demonstrate the computational tractability of its offline stage and the superior wall clock time performance of its online stage for a large-scale, 
-parametric, two-dimensional, model problem that is representative of shock-dominated unsteady flow problems.
-
+AI is set to transform the way we do Science, and I am on the look out for intellectual challenges in this field. If you felt inspired by my research and
+have ideas that you want to discuss, I am always seeking collaborations - please get in touch!  
