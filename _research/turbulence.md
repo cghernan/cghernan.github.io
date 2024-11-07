@@ -22,9 +22,9 @@ stable leading Lyapunov spectrum of the linearized equations for the high-wavenu
 <div style="text-align: center; text-justify: inter-word;">
 <figure>
     <img src="/images/triad.png" style="max-height: 500px; max-width: 500px;" align="center">
-    <figcaption>Set of triadic interactions for energy transfer to (a–c) low and (d–f) high wavenumbers from interactions (a,d) between low wavenumbers 
+    <figcaption>Set of triadic interactions for energy transfer in turbulent channel flow to (a–c) low and (d–f) high wavenumbers from interactions (a,d) between low wavenumbers 
 (LL-L, LL-H), (b,e) between low and high wavenumbers (LH-L, LH-H), and (c,f) between high wavenumbers (HH-L, HH-H). In the GQL approximation, three 
-interactions – (a) LL-L, (c) HH-L, (e) LH-H) – are retained out of six in total. The other three triads are discarded (Marston et al. 2016).</figcaption>
+interactions – (a) LL-L, (c) HH-L, (e) LH-H) – are retained out of six in total.</figcaption>
 </figure>
 
 </div>

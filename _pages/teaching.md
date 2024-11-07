@@ -12,7 +12,7 @@ mathematics, physics of fluids and engineering), I could show students examples 
 relevance of the methods they are studying. It is also my objective to develop new specialized courses, ranging from boundary layer asymptotics to 
 computational turbulence to artificial intelligence applied to fluid dynamics.
 
-At the undergraduate level, I have taught Complex Analysis and Methods for Data Science, during my time at Imperial College as a teaching assistant, 
+At the undergraduate level, I have taught Complex Analysis, Infinitesimal Calculus and Methods for Data Science (Reinforcement Learning), during my time at Imperial College as a teaching assistant, 
 delivering lectures as well as marking homework assessments and final exams.
  
 At the postgraduate level, I am interested in teaching fluid mechanics and asymptotic methods courses. In the field of Applied Mathematics, it is crucial 
@@ -24,6 +24,6 @@ for students to apply their mathematical knowledge to real-world problems, so th
     - [Syllabus](https://explorecourses.stanford.edu/search?q=ME451C&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20232024)
 
 ## Imperial College London
-- Maths: Reinforcement Learning (Winter 2021)
+- Maths: Methods for Data Science: Reinforcement Learning (Winter 2021)
 - Maths: Complex Analysis (Winter 2017-2021)
 - Maths: Infinitesimal Calculus (Spring 2017-2021)
