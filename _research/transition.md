@@ -1,5 +1,5 @@
 ---
-title: "Laminar-turbulent transition in high-speed flows"
+title: "Laminar-Turbulent Transition in High-Speed Flows"
 layout: single-portfolio
 excerpt: "<img src='/images/research/hyper_mach6.png' alt=''>"
 collection: research
