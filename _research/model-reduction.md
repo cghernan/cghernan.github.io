@@ -32,10 +32,10 @@ to the double-cone hypersonic benchmark problem.
     <figcaption>Caption goes here</figcaption>
 </figure>
 
-On a fundamental level, I am also interested in carrying out an extensive study of the capabilities of 
-the reduced-order model of canonical flows issued from (H)PROM-ANN/GP, including first- and second-order statistics, velocity and energy spectra, pressure
-components and physical mechanisms at play; as well as an investigation of other potential ML algorithms like convolutional neural networks and transformers
-for arbitrarily nonlinear approximation manifold construction. If you are interested in collaborating, feel free to drop me a line!
+On a fundamental level, I am also interested in carrying out an extensive study of the capabilities of the reduced-order model of canonical flows issued 
+from (H)PROM-ANN/GP, including first- and second-order statistics, velocity and energy spectra, pressure components and physical mechanisms at play; as well
+ as an investigation of other potential ML algorithms like convolutional neural networks and transformers for arbitrarily nonlinear approximation manifold 
+construction. If you are interested in collaborating, feel free to drop me a line!
 
 
 
