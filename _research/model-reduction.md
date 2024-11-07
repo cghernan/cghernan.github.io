@@ -1,11 +1,11 @@
 ---
 title: "Physics-Informed Model-Order Reduction"
 layout: single-portfolio
-excerpt: "<img src='/images/research/f16-mini.png' alt=''>"
+excerpt: "<img src='/images/research/f16_mini.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/f16-mini.png"
+  og_image: "research/f16_mini.png"
 ---
 
 <img src='/images/f16.png'>
