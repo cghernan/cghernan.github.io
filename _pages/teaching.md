@@ -3,25 +3,26 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
+As an aspiring educator in the field of Applied Mathematics, I am deeply committed to fostering an environment of intellectual curiosity, critical thinking,
+ and collaborative learning. My teaching philosophy is rooted in the belief that education is a transformative process that goes beyond the mere transfer of
+ information; it is a journey of exploration and development.
+
+At Stanford, I have been a teaching assistant for the Low-Order Modeling for Turbulent Flows course. Because of my interdisciplinary background (applied 
+mathematics, physics of fluids and engineering, I could show students examples drawn from my own research – there is no better way to show them the 
+relevance of the methods they are studying. It is also my objective to develop new specialized courses, ranging from boundary layer asymptotics to 
+computational turbulence to artificial intelligence applied to fluid dynamics.
+
+At the undergraduate level, I have taught Complex Analysis and Methods for Data Science, during my time at Imperial College as a teaching assistant, 
+delivering lectures as well as marking homework assessments and final exams.
+ 
+At the postgraduate level, I am interested in fluid mechanics courses, and in asymptotic methods. In the field of Applied Mathematics, it is crucial for 
+students to apply their mathematical knowledge to real-world problems, so the assessments must be designed along this direction.
+
+
 [certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
 [The Carpentries](https://carpentries.org/), which develops evidence-based
 methods for teaching "essential data and computational skills for conducting
 efficient, open, and reproducible research."
-
-
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
 ## Washington University in St. Louis
 - Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
