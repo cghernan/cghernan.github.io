@@ -12,7 +12,7 @@ header:
 <nbsp>
 <br/><br/>
 
-<img src='/images/f16_.png'>
+<img src='/images/f-16_.png'>
 
 I research how to best combine traditional projection-based model-order reduction (PMOR) and machine learning architectures like artificial neural networks
  (ANNs) and Gaussian Processes (GPs) to mitigate the Kolmogorov barrier to reducibility of parametric and/or highly nonlinear, high-dimensional, 
