@@ -13,7 +13,14 @@ header:
 <nbsp>
 <br/><br/>
 
-<img src='/images/f-16_.png'>
+<div style="text-align: center; text-justify: inter-word;">
+<figure>
+    <img src="/images/f-16_.png" style="max-height: 600px; max-width: 600px;" align="center">
+    <figcaption>Turbulent flow past an F-16 at 30 degrees angle of attack, Mach = 0.3, and altitude of 10,000 feet using a High-Dimensional Model and 
+HPROM-ANN. The lift and drag coefficients history match at 1% error</figcaption>
+</figure>
+
+</div>
 
 I research how to best combine traditional projection-based model-order reduction (PMOR) and machine learning architectures like artificial neural networks
  (ANNs) and Gaussian Processes (GPs) to mitigate the Kolmogorov barrier to reducibility of parametric and/or highly nonlinear, high-dimensional, 
@@ -27,11 +34,9 @@ two-dimensional, model problem that is representative of shock-dominated unstead
 to the double-cone hypersonic benchmark problem. 
 
 <div style="text-align: center; text-justify: inter-word;">
-<img src='/images/mach9.7pressure.png'>
 <figure>
     <img src="/images/mach9.7pressure.png" style="max-height: 600px; max-width: 600px;" align="center">
-    <figcaption>On a fundamental level, I am also interested in carrying out an extensive study of the capabilities of the reduced-order model of canonical flows issued 
-from (H)PROM-ANN/GP, </figcaption>
+    <figcaption>Visualization of the pressure flowfields predicted at Mach = 9.7 by DNS (a) and (b) HPROM-ANN.</figcaption>
 </figure>
 
 </div>
