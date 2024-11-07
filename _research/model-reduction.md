@@ -48,4 +48,5 @@ construction. If you are interested in collaborating, feel free to drop me a lin
 
 ## Papers
 
-Hernández, C. G., Tezaur, R. and Farhat, C. “Gaussian-process-augmented projection-based model order reduction for mitigating the Kolmogorov barrier to reducibility.”, *In preparation* (2024).
+Hernández, C. G., Tezaur, R. and Farhat, C. “Gaussian-process-augmented projection-based model order reduction for mitigating the Kolmogorov barrier 
+to reducibility.”, *In preparation* (2024).
