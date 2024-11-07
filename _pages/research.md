@@ -10,11 +10,9 @@ header:
 <div style="text-align: justify; text-justify: inter-word;">
 
 My academic research falls into three main areas: (1) Physics-informed model-order reduction, (2) Turbulence dynamics, and (3) Laminar-turbulent transition
-in high-speed flows. Feel free to navigate the pages below!
+in high-speed flows. Feel free to navigate through the pages below!
 
 </div>
-
-<br/><br/>
 
 <nbsp>
 
