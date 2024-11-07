@@ -30,7 +30,8 @@ to the double-cone hypersonic benchmark problem.
 <img src='/images/mach9.7pressure.png'>
 <figure>
     <img src="/images/mach9.7pressure.png" style="max-height: 600px; max-width: 600px;" align="center">
-    <figcaption>Caption goes here</figcaption>
+    <figcaption>On a fundamental level, I am also interested in carrying out an extensive study of the capabilities of the reduced-order model of canonical flows issued 
+from (H)PROM-ANN/GP, </figcaption>
 </figure>
 
 </div>
