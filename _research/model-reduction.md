@@ -11,7 +11,7 @@ header:
 ---
 
 <nbsp>
-<br/><br/>
+
 
 <div style="text-align: center; text-justify: inter-word;">
 <figure>
@@ -52,4 +52,4 @@ construction. If you are interested in collaborating, feel free to drop me a lin
 
 Hernández, C. G., Tezaur, R. and Farhat, C. “Gaussian-process-augmented projection-based model order reduction for mitigating the Kolmogorov barrier to
 reducibility.”, *In preparation* (2024).
-
+[Article](https://ctr.stanford.edu/publications/annual-research-briefs/){: .btn--research} 
