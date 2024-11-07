@@ -8,7 +8,10 @@ header:
   og_image: "research/f16_mini.png"
 ---
 
-<img src='/images/f16.png'>
+<nbsp>
+<br/><br/>
+
+<img src='/images/f16_.png'>
 
 I research how to best combine traditional projection-based model-order reduction (PMOR) and machine learning architectures like artificial neural networks
  (ANNs) and Gaussian Processes (GPs) to mitigate the Kolmogorov barrier to reducibility of parametric and/or highly nonlinear, high-dimensional, 
@@ -23,6 +26,8 @@ to the double-cone hypersonic benchmark problem. On a fundamental level, I am al
 the reduced-order model of canonical flows issued from (H)PROM-ANN/GP, including first- and second-order statistics, velocity and energy spectra, pressure
 components and physical mechanisms at play; as well as an investigation of other potential ML algorithms like convolutional neural networks and transformers
 for arbitrarily nonlinear approximation manifold construction. If you are interested in collaborating, feel free to drop me a line!
+
+<img src='/images/mach9.7pressure.png'>
 
 ## Papers
 
