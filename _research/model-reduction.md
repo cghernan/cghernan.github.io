@@ -5,7 +5,8 @@ excerpt: "<img src='/images/research/f16_mini.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/f16_mini.png"
+  #og_image: "research/f16_mini.png"
+  og_image: "research/ann.png"
 ---
 
 <nbsp>
