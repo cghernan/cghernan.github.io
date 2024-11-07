@@ -26,7 +26,7 @@ reduction approaches, the PROM-ANN/GP concept is practical for large-scale and i
 two-dimensional, model problem that is representative of shock-dominated unsteady flow problems. The PROM-ANN concept has also successfully been applied 
 to the double-cone hypersonic benchmark problem. 
 
-<div style="text-align: justify; text-justify: inter-word;">
+<div style="text-align: center; text-justify: inter-word;">
 <img src='/images/mach9.7pressure.png'>
 <figure>
     <img src="/images/mach9.7pressure.png" style="max-height: 600px; max-width: 600px;" align="center">
