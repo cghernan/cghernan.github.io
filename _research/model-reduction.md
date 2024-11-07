@@ -28,7 +28,7 @@ to the double-cone hypersonic benchmark problem.
 
 <img src='/images/mach9.7pressure.png'>
 <figure>
-    <img src="/images/mach9.7pressure.png" style="max-height: 600px; max-width: 600px;" align="center" />
+    <img src="/images/mach9.7pressure.png" style="max-height: 600px; max-width: 600px;" align="center">
     <figcaption>Caption goes here</figcaption>
 </figure>
 
