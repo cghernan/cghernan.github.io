@@ -10,9 +10,6 @@ header:
   og_image: "research/ann.png"
 ---
 
-<nbsp>
-
-
 <div style="text-align: center; text-justify: inter-word;">
 <figure>
     <img src="/images/f-16_.png" style="max-height: 500px; max-width: 500px;" align="center">
