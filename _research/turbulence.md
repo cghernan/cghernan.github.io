@@ -1,5 +1,5 @@
 ---
-title: "Turbulence Dynamics               "
+title: "Turbulence Dynamics <br/><br/>"
 layout: single-portfolio
 excerpt: "<img src='/images/research/gqlx.png' alt=''>"
 collection: research
