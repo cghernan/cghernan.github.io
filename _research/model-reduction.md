@@ -16,8 +16,8 @@ header:
 <div style="text-align: center; text-justify: inter-word;">
 <figure>
     <img src="/images/f-16_.png" style="max-height: 500px; max-width: 500px;" align="center">
-    <figcaption>Turbulent flow past an F-16 at 30 degrees angle of attack, Mach = 0.3, and altitude of 10,000 feet using a High-Dimensional Model and 
-HPROM-ANN. The lift and drag coefficients history match at 1% error</figcaption>
+    <figcaption>Turbulent flow past an F-16 at 30 degrees angle of attack, Mach = 0.3, and altitude of 10,000 feet using a High-Dimensional Model and the
+HPROM-ANN concept. The lift and drag coefficients history match at 1% error</figcaption>
 </figure>
 
 </div>
@@ -36,7 +36,7 @@ to the double-cone hypersonic benchmark problem.
 <div style="text-align: center; text-justify: inter-word;">
 <figure>
     <img src="/images/mach9.7pressure.png" style="max-height: 500px; max-width: 500px;" align="center">
-    <figcaption>Visualization of the pressure flowfields predicted at Mach = 9.7 by DNS (a) and (b) HPROM-ANN.</figcaption>
+    <figcaption>Visualization of the pressure flowfields of the double-cone hypersonic benchmark problem predicted at Mach = 9.7 by DNS (a) and (b) HPROM-ANN.</figcaption>
 </figure>
 
 </div>
@@ -46,10 +46,7 @@ from (H)PROM-ANN/GP, including first- and second-order statistics, velocity and 
  as an investigation of other potential ML algorithms like convolutional neural networks and transformers for arbitrarily nonlinear approximation manifold 
 construction. If you are interested in collaborating, feel free to drop me a line!
 
-
-
 ## Papers
 
 Hernández, C. G., Tezaur, R. and Farhat, C. “Gaussian-process-augmented projection-based model order reduction for mitigating the Kolmogorov barrier to
 reducibility.”, *In preparation* (2024).
-[Article](https://ctr.stanford.edu/publications/annual-research-briefs/){: .btn--research} 

@@ -15,7 +15,13 @@ number. In the subsonic regime, they are Tollmien-Schlichting (T-S) waves, which
 multiple families of modes (Mack, 1984) including the so-called first Mack modes, which are continuation of T-S modes into the compressible regime, and 
 the second Mack modes, which are essentially inviscid.
 
-<img src='/images/hyper_mach6.png'>
+<div style="text-align: center; text-justify: inter-word;">
+<figure>
+    <img src="/images/hyper.png" style="max-height: 500px; max-width: 500px;" align="center">
+    <figcaption>Hypersonic boundary layer at Mach 6 undergoing transition through second-mode amplification and breakdown.</figcaption>
+</figure>
+
+</div>
 
 I have worked on two new receptivity mechanisms. The first is new, involving the interaction of two acoustic waves and operating in a boundary layer over 
 a smooth wall. The second involves the interaction between an acoustic wave and the steady perturbation induced by a wavy wall. Both interactions generate 
@@ -24,7 +30,14 @@ subsequently undergoes exponential amplification. The two receptivity processes 
 effective compared with those involving usual sound waves, with the coupling coefficient being greater by a factor of O(R^1/4) and O(R^1/8) in the 
 sound–sound and sound–roughness interactions, respectively.
 
-<img src='/images/receptivity.png'>
+<div style="text-align: center; text-justify: inter-word;">
+<figure>
+    <img src="/images/receptivity.png" style="max-height: 500px; max-width: 500px;" align="center">
+    <figcaption>Asymptotic description of the receptivity mechanism due to sound–sound interaction in a supersonic boundary layer at high-Reynolds 
+numbers.</figcaption>
+</figure>
+
+</div>
 
 I am currently working on other receptivity mechanisms pertaining to high-speed boundary layers, and am looking to compare the high-Reynolds-number
 asymptotics results to numerical simulations and experiments. Receptivity has received far less attention than Instability, and there are a number of
