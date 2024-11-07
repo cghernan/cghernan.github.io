@@ -23,12 +23,17 @@ resulting PROM-ANN/GP can be efficiently hyperreduced using any well-established
 reduction approaches, the PROM-ANN/GP concept is practical for large-scale and industry-relevant computational problems. The concept has demonstrated
  the computational tractability of its offline stage and the superior wall clock time performance of its online stage for a large-scale, parametric, 
 two-dimensional, model problem that is representative of shock-dominated unsteady flow problems. The PROM-ANN concept has also successfully been applied 
-to the double-cone hypersonic benchmark problem. On a fundamental level, I am also interested in carrying out an extensive study of the capabilities of 
+to the double-cone hypersonic benchmark problem. 
+
+<img src='/images/mach9.7pressure.png'>
+<img src="/images/mach9.7pressure.png" style="max-height: 100px; max-width: 100px;" />
+
+On a fundamental level, I am also interested in carrying out an extensive study of the capabilities of 
 the reduced-order model of canonical flows issued from (H)PROM-ANN/GP, including first- and second-order statistics, velocity and energy spectra, pressure
 components and physical mechanisms at play; as well as an investigation of other potential ML algorithms like convolutional neural networks and transformers
 for arbitrarily nonlinear approximation manifold construction. If you are interested in collaborating, feel free to drop me a line!
 
-<img src='/images/mach9.7pressure.png'>
+
 
 ## Papers
 
