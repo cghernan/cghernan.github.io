@@ -190,8 +190,12 @@ li ol {
 /* Figures and images */
 
 figure {
-  display: -webkit-box;
-  display: flex;
+  display: inline-block;
+  border: 1px dotted gray;
+  margin: 20px; /* adjust as needed */
+
+/*  display: -webkit-box;*/
+/*    display: flex;*/
   -webkit-box-pack: justify;
           justify-content: space-between;
   -webkit-box-align: start;
@@ -206,6 +210,7 @@ figure {
   }
 
   img {
+    vertical-align: top;
     width: 100%;
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
@@ -225,7 +230,8 @@ figure {
     }
 
     figcaption {
-      width: 100%;
+      border: 1px dotted blue;
+      text-align: center;
     }
   }
 
