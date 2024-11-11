@@ -52,8 +52,6 @@ comprehensively. If you have new ideas on the matter, I am more than happy to co
 
 ## Papers
 
-Hernández, C. G. and Hwang, Y. “Wall turbulence without self-sustaining process.”, *In preparation* (2024).
-
 Hernández, C. G., Cao, K., Herrmann, B., Brunton, S. andMcKeon, B. J. “Toward
 data-driven resolvent analysis of nonlinear flows.” *CTR Ann. Res. Briefs* (2024).
 [Article](https://ctr.stanford.edu/publications/annual-research-briefs/){: .btn--research} 
