@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hola! I am Research Fellow in the Department of Aeronautics & Astronautics at Stanford University. I work at the intersection of Computational Physics and 
+Hola! I am Research Fellow at Stanford University. I work at the intersection of Computational Physics and 
 Artificial Intelligence, specializing in the construction of physics-informed reduced-order models for their use as ‘digital twins’ in 
-real-time engineering applications. These models make effective use of deep artificial neural networks to break the curse of dimensionality associated to 
-the high dimensionality of systems described by PDEs.
+real-time engineering applications. These models make effective use of deep artificial neural networks to break the curse of the high dimensionality of 
+systems described by partial differential equations.
 
 I read Physics (Fluids) ([Ecole Polytechnique](https://www.polytechnique.edu/), 2015) 
 before moving on to obtain my PhD in Applied Mathematics from [Imperial College London](https://www.imperial.ac.uk/) (2021). I also interned at 
